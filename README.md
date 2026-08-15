@@ -42,9 +42,19 @@ FJM30 is a highly integrated SDR SoC based on System-in-Package (SiP) technology
 - Wireless Communication Systems
 - Cognitive Radio Research
 - Spectrum Monitoring
-- Signal Processing Platforms
 - Radar and Sensing Systems
 - Embedded RF Systems
+- RF Prototyping Platforms
+
+---
+
+## Quick Links
+
+| Resource | Description |
+|-----------|-------------|
+| Datasheet | Product specifications |
+| EVK Guide | Evaluation board documentation |
+| Application Notes | Design references and examples |
 
 ---
 
@@ -52,27 +62,31 @@ FJM30 is a highly integrated SDR SoC based on System-in-Package (SiP) technology
 
 ### Datasheet
 
-See:
-
-/datasheet
+Available in the `/datasheet` folder.
 
 ### Application Notes
 
-See:
+Available in the `/application_notes` folder.
 
-/application_notes
+### EVK Documentation
 
-### EVK User Guide
+Available in the `/evk` folder.
 
-See:
+---
 
-/evk
+## Evaluation Kit
+
+FJM30 Evaluation Kit (EVK) is available for engineering evaluation and prototyping.
+
+For pricing and availability:
+
+📧 info@alight.hk
 
 ---
 
 ## Company Information
 
-ALIGHT Semiconductor
+ALIGHT Semiconductor develops advanced System-in-Package (SiP) solutions integrating RF, FPGA, ARM processing and memory into compact modules for SDR and wireless applications.
 
 Website:
 
@@ -88,8 +102,15 @@ https://www.linkedin.com/company/alight-semiconductor/
 
 ---
 
-## Contact
+## Technical Support
 
-For evaluation boards, technical support and business cooperation, please contact:
+For:
 
-info@alight.hk
+- Evaluation Boards
+- Technical Questions
+- Design Support
+- Business Cooperation
+
+Contact:
+
+📧 info@alight.hk
