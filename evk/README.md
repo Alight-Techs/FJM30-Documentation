@@ -1,3 +1,21 @@
-# FJM30 EVK
+# FJM30 Evaluation Kit
 
-Evaluation Kit documentation for FJM30 SDR SoC.
+Evaluation resources for the FJM30 SDR SoC.
+
+## Contents
+
+- EVK documentation
+- User guides
+- Setup instructions
+- Development workflow
+
+## Development Environment
+
+- Vivado 2018.3
+- Embedded Linux
+- PetaLinux
+- JTAG Programming
+
+## Support
+
+info@alight.hk
